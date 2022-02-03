@@ -233,12 +233,6 @@ strong {
 	font-family:'Inter';
 }
 .section-4 .separator {}
-.section-4 .bgImg-wrapper {
-	background-color: pink;
-}
-.section-4 .text-content {
-	background-color: olive;
-}
 @media (min-width: 768px) {
 	.section-4 .bgImg2 {
 		width: 60px;
@@ -420,7 +414,7 @@ strong {
 	content: "";
 	height: 100%;
 	top:  0;
-	left: -2px;
+	left: -12px;
 	width: 1px;
 	background-color: #b8b8b8;
 	position: absolute;
