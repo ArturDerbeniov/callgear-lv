@@ -233,6 +233,12 @@ strong {
 	font-family:'Inter';
 }
 .section-4 .separator {}
+.section-4 .bgImg-wrapper {
+	background-color: pink;
+}
+.section-4 .text-content {
+	background-color: olive;
+}
 @media (min-width: 768px) {
 	.section-4 .bgImg2 {
 		width: 60px;
@@ -253,7 +259,7 @@ strong {
 	.section-4 .bgImg-wrapper {
 		display: table-cell;
 		vertical-align: top;
-		width: 0;
+		width: 1px;
 	}
 }
 .section-5 .video {
